@@ -8,4 +8,4 @@ def main(a):
         float: the result
     '''
     return round(a, 2)
-print(main(a))
+print(main(6.453))
